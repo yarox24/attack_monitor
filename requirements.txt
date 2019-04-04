@@ -1,0 +1,10 @@
+pywin32
+xmltodict
+pyshark
+watchdog
+pytz
+tzlocal
+psutil
+PyQt5
+reportlab
+anytree

@@ -1,0 +1,72 @@
+[
+    {
+        "dirpath": "C:\\",
+        "recursive": false,
+        "file_moved": true,
+        "file_modified": true,
+        "file_created": true,
+        "file_deleted": true,
+        "dir_moved": true,
+        "dir_modified": false,
+        "dir_created": true,
+        "dir_deleted": true,
+        "filesize_read": true,
+        "extension_filter": null
+    },
+    {
+        "dirpath": "C:\\Windows",
+        "recursive": false,
+        "file_moved": true,
+        "file_modified": true,
+        "file_created": true,
+        "file_deleted": true,
+        "dir_moved": true,
+        "dir_modified": false,
+        "dir_created": true,
+        "dir_deleted": true,
+        "filesize_read": true,
+        "extension_filter": null
+    },
+    {
+        "dirpath": "C:\\Program Files (x86)",
+        "recursive": false,
+        "file_moved": true,
+        "file_modified": true,
+        "file_created": true,
+        "file_deleted": true,
+        "dir_moved": true,
+        "dir_modified": false,
+        "dir_created": true,
+        "dir_deleted": true,
+        "filesize_read": true,
+        "extension_filter": null
+    },    
+    {
+        "dirpath": "C:\\Program Files",
+        "recursive": false,
+        "file_moved": true,
+        "file_modified": true,
+        "file_created": true,
+        "file_deleted": true,
+        "dir_moved": true,
+        "dir_modified": false,
+        "dir_created": true,
+        "dir_deleted": true,
+        "filesize_read": true,
+        "extension_filter": null
+    },
+    {
+        "dirpath": "C:\\ProgramData",
+        "recursive": false,
+        "file_moved": true,
+        "file_modified": true,
+        "file_created": true,
+        "file_deleted": true,
+        "dir_moved": true,
+        "dir_modified": false,
+        "dir_created": true,
+        "dir_deleted": true,
+        "filesize_read": true,
+        "extension_filter": null
+    }
+]
