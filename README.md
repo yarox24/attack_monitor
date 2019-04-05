@@ -19,7 +19,8 @@ Based on events from:
 attack.monitor.github@gmail.com
 
 # Demo
-(Soon)
+![demo/ed.gif](https://raw.githubusercontent.com/yarox24/attack_monitor/master/demo/ed.gif)
+
 
 # Supported OS
 
